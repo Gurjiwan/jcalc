@@ -1,3 +1,3 @@
 # jcalc
 
-A new project for cresating a calculator using Java Programming.
+A new project for creating a calculator using Java Programming.
